@@ -18,6 +18,10 @@ A web-based application built during my Web Development class to help users plan
 3. Click “Generate Meal Plan” to view it.
 4. Print or download your plan!
 
+
+## 🚀 Live Demo  
+🔗 Click here to try !!  ---> https://ey0b11.github.io/Web-dev-Meal-Planner/
+
 ---
 
 👨‍💻 Created by Eyob Ollivierre –
