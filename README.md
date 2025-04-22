@@ -20,7 +20,7 @@ A web-based application built during my Web Development class to help users plan
 
 
 ## 🚀 Live Demo  
-🔗 Click here to try !!  ---> https://ey0b11.github.io/Web-dev-Meal-Planner/
+🔗 Click here to try !!  ---> https://ey0b11.github.io/Web-Dev-Meal-Planner/
 
 ---
 
